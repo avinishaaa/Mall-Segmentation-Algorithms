@@ -1,10 +1,10 @@
 # Customer Segmentation using Clustering Algorithms
 
 ## Project Overview
-This project tackles a classic business problem faced by retail stores: how can we better understand our customers beyond surface-level demographics? By analyzing customer data from a mall, we aimed to uncover deep, actionable insights that can transform marketing strategies and customer engagement.
+This project tackles a classic business problem faced by retail stores: how can we better understand our customers beyond surface-level demographics? Analyzing customer data from a mall, aimed to uncover deep, actionable insights that can transform marketing strategies and customer engagement.
 
 ## Problem Statement
-Understanding customer behavior is key to optimizing retail strategies. In this project, we used unsupervised machine learning techniques to segment customers based on spending patterns and demographic features. This can help businesses target marketing campaigns, optimize store layouts, personalize promotions, and improve customer retention.
+Understanding customer behaviour is key to optimizing retail strategies. In this project, I used unsupervised machine learning techniques to segment customers based on spending patterns and demographic features. This can help businesses target marketing campaigns, optimize store layouts, personalize promotions, and improve customer retention.
 
 ## Approach
 We experimented with four clustering algorithms:
